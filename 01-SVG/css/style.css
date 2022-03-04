@@ -1,3 +1,10 @@
 body {
       font-family: 'Open Sans', sans-serif;
 }
+.Change {
+      fill: rgb(20, 172, 15);
+    }
+
+.changerayon{
+      r:100;
+}
