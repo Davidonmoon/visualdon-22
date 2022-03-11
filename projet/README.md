@@ -19,6 +19,7 @@
 
 
 * A la racine du repo, créez un README.md où vous traitez les questions suivantes : 
+* 
   * **Contexte** : d'où viennent les données, qui les a créées et dans quel contexte
   * 
   * Les données viennent du site https://ucdp.uu.se/, l'idée de ces données est de montrer les conflits armés où au moins un des parties est un état souverain entre 1946-2020.
@@ -33,5 +34,6 @@
   * Mon but sera uniquement d'informer / explorer, nous vivons sur une planète violante et souvent cela est trop peu relayé. Le récent confilt Russio-Ukrainien à rappelé au monde les attrocités perpétuées près de nos frontières. Hors l'idée sera de montré à quel point nous sommes proches d'un grand nombre de conflits sans vraiement en avoir conscience.
   * 
   * **Références**: Qui d'autre dans le web ou dans la recherche a utilisé ces données ? Dans quel but ?
+  * 
   * Je ne suis bien évidamment pas le premier à maper des données liés aux conflits armées, il y a plusieurs livres sur le sujet et également un bon nombre de recherches/études. Je ne vraiment pas politisé l'information car libre à chacun de ce faire ca propre opinon sur le sujet, il faut dépasser le "la guerre c'est pas bien", car les conflits sont liés à des contextes ou des intêrets. Conciderons ce travail comme un coup d'oeil sur notre histoire afin de relativisé notre vision du monde d'aujourd'hui.     
 
