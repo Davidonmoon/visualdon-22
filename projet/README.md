@@ -37,3 +37,9 @@
   
   * Je ne suis bien évidemment pas le premier à mapper des données liées aux conflits armées, il y a plusieurs livres sur le sujet et également un bon nombre de recherches/études. Je ne veux vraiment pas politisé l'information, car libre à chacun de ce faire ça propre opinion sur le sujet, il faut dépasser le "la guerre c'est pas bien", car les conflits sont très complexes en plus d'être liés à des contextes ou des intérêts. Considérons ce travail comme un coup d'oeil sur notre histoire afin de relativiser notre vision du monde d'aujourd'hui.     
 
+Wireframe: 
+
+lien pour y accéder:  https://excalidraw.com/#json=bWahjGoY4b3KChBSx7MHB,CE4nNmR-FcMlH1GzqRNS5w
+
+
+
